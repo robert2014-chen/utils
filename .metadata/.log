@@ -43,3 +43,23 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.core.net 1 0 2016-05-27 17:11:05.112
 !MESSAGE System property https.proxyPort is set to 3128 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-27 17:13:40.181
+!MESSAGE System property https.proxyHost is set to 10.191.131.19 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-27 17:13:40.182
+!MESSAGE System property https.proxyPort is set to 3128 but should not be set.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 17:15:53.563
+!MESSAGE Failed to execute:  drop database util_test
+
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 17:15:53.563
+!MESSAGE java.sql.SQLException: Can't drop database 'util_test'; database doesn't exist
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 17:16:45.052
+!MESSAGE Failed to execute:  drop database util_test
+
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 17:16:45.052
+!MESSAGE java.sql.SQLException: Can't drop database 'util_test'; database doesn't exist

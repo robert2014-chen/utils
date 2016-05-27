@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.robert.util.domain">
+
+	<class name="Person" table="t_person">
+		<id name="id" type="java.lang.Integer" column="person_id">
+			<generator class="native"></generator>
+		</id>
+		<property name="name" type="java.lang.String" column="person_name" />
+		<many-to-one name="address" class="Address">
+			<column name="address_id" not-null="true" />
+		</many-to-one>
+	</class>
+
+</hibernate-mapping> 

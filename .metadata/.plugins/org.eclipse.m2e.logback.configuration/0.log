@@ -20,3 +20,101 @@
 2016-05-27 17:10:01,434 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
 2016-05-27 17:10:01,441 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.robert.util:util-parent:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-parent\pom.xml.
 2016-05-27 17:10:01,459 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-27 17:14:36,030 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\sts_workspace\util\util-hibernate\pom.xml
+2016-05-27 17:14:36,067 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:14:36,180 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/main/java
+2016-05-27 17:14:36,183 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/test/java
+2016-05-27 17:14:36,221 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2016-05-27 17:14:36,472 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:14:36,593 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:14:36,594 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\main\resources
+2016-05-27 17:14:36,597 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:14:36,598 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:14:37,289 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:14:37,662 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:14:37,662 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\main\resources
+2016-05-27 17:14:37,663 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:14:37,663 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:15:37,753 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:15:38,033 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:15:38,033 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\main\resources
+2016-05-27 17:15:38,035 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:15:38,035 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:15:39,330 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:15:39,330 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\main\resources
+2016-05-27 17:15:39,331 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:15:39,331 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:15:46,951 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:15:47,107 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:15:47,107 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\main\resources
+2016-05-27 17:15:47,108 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:15:47,108 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:15:52,423 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-27 17:15:52,460 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:15:52,627 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/main/java
+2016-05-27 17:15:52,629 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/test/java
+2016-05-27 17:15:52,782 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-27 17:15:53,100 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:15:53,552 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-27 17:15:53,562 [Worker-26] ERROR o.e.m.c.i.embedder.EclipseLogger - Failed to execute:  drop database util_test
+
+2016-05-27 17:15:53,563 [Worker-26] ERROR o.e.m.c.i.embedder.EclipseLogger - java.sql.SQLException: Can't drop database 'util_test'; database doesn't exist
+2016-05-27 17:15:53,564 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - 0 of 1 SQL statements executed successfully
+2016-05-27 17:15:53,571 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-27 17:15:53,572 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-27 17:15:53,574 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:15:53,574 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\main\resources
+2016-05-27 17:15:53,575 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:15:53,575 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:15:53,583 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-27 17:15:53,584 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-27 17:16:44,456 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-27 17:16:44,502 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:16:44,604 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.robert.util:util-parent:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-parent\pom.xml.
+2016-05-27 17:16:44,667 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/main/java
+2016-05-27 17:16:44,668 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/test/java
+2016-05-27 17:16:44,732 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-27 17:16:44,909 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:16:45,052 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-27 17:16:45,052 [Worker-24] ERROR o.e.m.c.i.embedder.EclipseLogger - Failed to execute:  drop database util_test
+
+2016-05-27 17:16:45,052 [Worker-24] ERROR o.e.m.c.i.embedder.EclipseLogger - java.sql.SQLException: Can't drop database 'util_test'; database doesn't exist
+2016-05-27 17:16:45,053 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - 0 of 1 SQL statements executed successfully
+2016-05-27 17:16:45,060 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-27 17:16:45,061 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-27 17:16:45,062 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:16:45,062 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\main\resources
+2016-05-27 17:16:45,063 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:16:45,063 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:16:45,071 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-27 17:16:45,071 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-27 17:18:44,434 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:18:44,468 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\main\resources
+2016-05-27 17:18:44,470 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:18:44,471 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:18:48,838 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:18:48,840 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\main\resources
+2016-05-27 17:18:48,842 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:18:48,842 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:19:13,318 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:19:13,318 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\main\resources
+2016-05-27 17:19:13,319 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:19:13,320 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:19:43,060 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:19:43,256 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:19:43,260 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 17:19:43,262 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:19:43,262 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:20:03,333 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:20:03,333 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 17:20:03,335 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:20:03,335 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-hibernate\src\test\resources
+2016-05-27 17:20:20,519 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-27 17:20:20,668 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:20:20,668 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 17:20:20,669 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:20:20,670 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 17:20:31,207 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:20:31,209 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 17:20:31,211 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 17:20:31,212 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
