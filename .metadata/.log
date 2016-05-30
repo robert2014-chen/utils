@@ -404,3 +404,15 @@ Caused by: java.io.IOException: 另一个程序已锁定文件的一部分，进
 	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:100)
 	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:184)
 	... 8 more
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-30 10:10:16.373
+!MESSAGE System property https.proxyHost is set to 10.191.131.19 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-30 10:10:16.374
+!MESSAGE System property https.proxyPort is set to 3128 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-30 10:10:26.007
+!MESSAGE System property https.proxyHost is set to 10.191.131.19 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-30 10:10:26.007
+!MESSAGE System property https.proxyPort is set to 3128 but should not be set.
