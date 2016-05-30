@@ -416,3 +416,16 @@ Caused by: java.io.IOException: 另一个程序已锁定文件的一部分，进
 
 !ENTRY org.eclipse.core.net 1 0 2016-05-30 10:10:26.007
 !MESSAGE System property https.proxyPort is set to 3128 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-30 10:32:59.608
+!MESSAGE System property https.proxyHost is set to 10.191.131.19 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-30 10:32:59.609
+!MESSAGE System property https.proxyPort is set to 3128 but should not be set.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-30 11:35:52.818
+!MESSAGE Failed to execute:  drop database util_test
+
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-30 11:35:52.819
+!MESSAGE java.sql.SQLException: Can't drop database 'util_test'; database doesn't exist

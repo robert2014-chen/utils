@@ -402,3 +402,485 @@
 2016-05-30 10:30:45,301 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-05-30 10:30:45,303 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-05-30 10:30:45,306 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 10:34:51,084 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 10:34:51,127 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 10:34:51,127 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 10:34:51,128 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 10:34:51,128 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 10:35:33,055 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 10:35:33,056 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 10:35:33,058 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 10:35:33,059 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 10:39:02,395 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 10:39:02,395 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 10:39:02,396 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 10:39:02,396 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 10:39:09,083 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 10:39:09,084 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 10:39:09,086 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 10:39:09,086 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 10:42:45,917 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 10:42:45,917 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 10:42:45,919 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 10:42:45,920 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:31:57,124 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:31:57,125 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:31:57,130 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:31:57,131 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:35:51,895 [Worker-79] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-30 11:35:51,942 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 11:35:51,984 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-mybatis/src/main/java
+2016-05-30 11:35:51,984 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /util-mybatis/src/main/resources overlaps with sources folder /util-mybatis/src/main/resources
+2016-05-30 11:35:51,986 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-mybatis/src/test/java
+2016-05-30 11:35:51,986 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /util-mybatis/src/test/resources overlaps with sources folder /util-mybatis/src/test/resources
+2016-05-30 11:35:52,035 [Worker-79] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-30 11:35:52,224 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 11:35:52,816 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 11:35:52,818 [Worker-77] ERROR o.e.m.c.i.embedder.EclipseLogger - Failed to execute:  drop database util_test
+
+2016-05-30 11:35:52,818 [Worker-77] ERROR o.e.m.c.i.embedder.EclipseLogger - java.sql.SQLException: Can't drop database 'util_test'; database doesn't exist
+2016-05-30 11:35:52,819 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - 0 of 1 SQL statements executed successfully
+2016-05-30 11:35:52,846 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 11:35:52,847 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-30 11:35:52,849 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:35:52,850 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:35:52,852 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:35:52,852 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-30 11:35:52,882 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing file: C:\Users\CHEN\AppData\Local\Temp\create_schema.190480341sql
+2016-05-30 11:35:53,090 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - 3 of 3 SQL statements executed successfully
+2016-05-30 11:35:53,126 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 11:35:53,157 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-30 11:37:12,372 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:37:12,373 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:37:12,374 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:37:12,374 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-30 11:37:59,270 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:37:59,270 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:37:59,273 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:37:59,274 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-30 11:38:44,926 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:38:44,926 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:38:44,927 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:38:44,928 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:38:56,957 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:38:56,957 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:38:56,959 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:38:56,960 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:39:17,174 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:39:17,175 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:39:17,178 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:39:17,179 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:39:47,195 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:39:47,195 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:39:47,196 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:39:47,196 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:40:26,259 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:40:26,260 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:40:26,264 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:40:26,266 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:41:26,564 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:41:26,565 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:41:26,566 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:41:26,567 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:42:11,521 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:42:11,522 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:42:11,525 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:42:11,526 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:42:26,189 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:42:26,189 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:42:26,192 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:42:26,193 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:42:36,477 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:42:36,477 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:42:36,479 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:42:36,480 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-30 11:43:02,279 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:43:02,279 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:43:02,280 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:43:02,281 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-30 11:43:17,720 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:43:17,720 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:43:17,721 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:43:17,722 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-30 11:43:33,467 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:43:33,468 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:43:33,469 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:43:33,470 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-30 11:44:19,453 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:44:19,454 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:44:19,457 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:44:19,457 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:44:32,259 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 11:44:32,259 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 11:45:04,442 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:45:04,442 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:45:04,443 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:45:04,444 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-30 11:45:15,116 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 11:45:15,116 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 11:45:17,573 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:45:17,573 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:45:17,575 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:45:17,575 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:45:50,494 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:45:50,495 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:45:50,498 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:45:50,499 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:45:56,167 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 11:45:56,168 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 11:45:58,865 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:45:58,866 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:45:58,871 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:45:58,871 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:47:57,704 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:47:57,705 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:47:57,708 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:47:57,708 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:48:48,350 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:48:48,351 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:48:48,356 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:48:48,357 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:49:09,329 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:49:09,329 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:49:09,333 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:49:09,334 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 11:49:19,038 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 11:49:19,038 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 11:49:22,265 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:49:22,265 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 11:49:22,270 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 11:49:22,271 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 14:10:52,124 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 14:10:52,125 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 14:10:52,126 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 14:10:52,126 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 14:11:33,254 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 14:11:33,255 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 14:11:33,257 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 14:11:33,257 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:03:15,614 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:03:15,616 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:03:15,618 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:03:15,619 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:03:39,847 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:03:39,848 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:03:39,853 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:03:39,855 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:05:13,294 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:05:13,294 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:05:13,295 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:05:13,296 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:05:39,651 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:05:39,652 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:05:39,654 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:05:39,655 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:05:51,022 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:05:51,022 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:05:54,667 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:05:54,668 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:05:54,670 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:05:54,671 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:06:15,318 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:06:15,319 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:06:15,322 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:06:15,323 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:06:25,218 [Worker-133] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:06:25,218 [Worker-133] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:06:27,654 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:06:27,655 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:06:27,658 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:06:27,659 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:07:45,694 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:07:45,695 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:07:45,705 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:07:45,706 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:07:52,359 [Worker-139] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:07:52,360 [Worker-139] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:07:54,824 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:07:54,825 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:07:54,827 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:07:54,828 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:09:06,940 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:09:06,941 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:09:06,946 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:09:06,947 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:09:12,116 [Worker-133] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:09:12,116 [Worker-133] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:09:14,717 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:09:14,717 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:09:14,719 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:09:14,720 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:09:29,832 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:09:29,833 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:09:29,837 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:09:29,837 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:09:43,913 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:09:43,913 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:09:46,479 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:09:46,480 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:09:46,484 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:09:46,484 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:10:19,598 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:10:19,599 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:10:19,604 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:10:19,605 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:10:27,076 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:10:27,077 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:10:29,632 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:10:29,632 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:10:29,634 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:10:29,634 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:10:44,446 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:10:44,447 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:10:44,450 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:10:44,450 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:11:01,491 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:11:01,492 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:11:01,494 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:11:01,495 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:11:07,086 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:11:07,086 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:11:09,498 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:11:09,498 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:11:09,500 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:11:09,500 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:11:44,320 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:11:44,321 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:11:44,325 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:11:44,327 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:11:48,578 [Worker-139] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:11:48,579 [Worker-139] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:11:51,155 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:11:51,155 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:11:51,156 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:11:51,156 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:12:21,198 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:12:21,199 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:12:21,201 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:12:21,202 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:12:32,510 [Worker-140] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:12:32,511 [Worker-140] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:12:35,024 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:12:35,024 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:12:35,025 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:12:35,025 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:23:50,285 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:23:50,286 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:23:50,287 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:23:50,288 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:34:04,637 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:34:04,637 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:34:04,638 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:34:04,639 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-30 16:34:30,696 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:34:30,696 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:34:30,698 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:34:30,700 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-30 16:34:43,101 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:34:43,101 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:34:43,102 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:34:43,103 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-30 16:35:11,149 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:35:11,149 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:35:11,150 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:35:11,151 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-30 16:36:05,791 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:36:05,792 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:36:05,792 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:36:05,793 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:38:27,305 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:38:27,306 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:38:27,307 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:38:27,307 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:40:04,810 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:40:04,811 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:40:04,817 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:40:04,818 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:40:28,493 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:40:28,494 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:40:28,495 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:40:28,496 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2016-05-30 16:41:39,725 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:41:39,725 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:41:39,726 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:41:39,727 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2016-05-30 16:41:52,126 [Worker-154] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:41:52,127 [Worker-154] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:42:23,391 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:42:23,391 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:42:23,392 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:42:23,393 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:42:32,702 [Worker-140] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:42:32,702 [Worker-140] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:42:36,108 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:42:36,108 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:42:36,110 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:42:36,110 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:47:23,246 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:47:23,246 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:47:23,251 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:47:23,252 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:47:32,295 [Worker-156] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:47:32,295 [Worker-156] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:47:36,469 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:47:36,470 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:47:36,472 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:47:36,473 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:53:21,352 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:53:21,353 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:53:21,354 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:53:21,356 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2016-05-30 16:53:30,412 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:53:30,412 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:53:34,394 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:53:34,395 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:53:34,397 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:53:34,398 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:54:17,426 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:54:17,426 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:54:17,427 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:54:17,427 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:54:22,340 [Worker-159] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:54:22,340 [Worker-159] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:54:25,505 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:54:25,506 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:54:25,510 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:54:25,511 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:57:05,260 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:57:05,260 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:57:05,263 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:57:05,264 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:57:12,894 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:57:12,895 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:57:16,673 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:57:16,674 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:57:16,676 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:57:16,676 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:58:42,310 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:58:42,311 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:58:42,312 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:58:42,312 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:58:48,179 [Worker-161] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:58:48,179 [Worker-161] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:58:51,197 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:58:51,198 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:58:51,200 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:58:51,200 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:59:34,008 [Worker-140] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:59:34,009 [Worker-140] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:59:37,063 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:59:37,064 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:59:37,067 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:59:37,067 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:59:46,035 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:59:46,036 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:59:46,038 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:59:46,039 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 16:59:53,473 [Worker-163] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 16:59:53,474 [Worker-163] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 16:59:56,488 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:59:56,489 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 16:59:56,492 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 16:59:56,493 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:00:46,855 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:00:46,855 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:00:46,858 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:00:46,859 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:00:52,763 [Worker-165] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 17:00:52,763 [Worker-165] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 17:00:55,761 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:00:55,762 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:00:55,765 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:00:55,765 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:01:28,162 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:01:28,163 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:01:28,165 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:01:28,166 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:01:33,729 [Worker-161] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 17:01:33,729 [Worker-161] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 17:01:37,008 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:01:37,008 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:01:37,010 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:01:37,010 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:02:41,950 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:02:41,951 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:02:41,957 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:02:41,957 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:02:46,378 [Worker-166] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 17:02:46,379 [Worker-166] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 17:02:49,757 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:02:49,758 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:02:49,759 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:02:49,759 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:03:05,439 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:03:05,440 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:03:05,444 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:03:05,446 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:03:25,695 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:03:25,696 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:03:25,698 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:03:25,699 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:03:32,020 [Worker-167] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 17:03:32,021 [Worker-167] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 17:03:34,935 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:03:34,936 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:03:34,940 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:03:34,940 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:04:44,202 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:04:44,202 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:04:44,207 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:04:44,207 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:04:53,628 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:04:53,628 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:04:53,631 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:04:53,632 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:04:59,402 [Worker-161] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 17:04:59,403 [Worker-161] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 17:05:02,254 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:05:02,255 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:05:02,259 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:05:02,260 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:05:55,666 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:05:55,666 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:05:55,668 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:05:55,668 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:06:00,224 [Worker-162] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 17:06:00,224 [Worker-162] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 17:06:03,095 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:06:03,095 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:06:03,099 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:06:03,100 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:06:42,801 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:06:42,802 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:06:42,804 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:06:42,805 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:07:00,498 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:00,498 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:07:00,501 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:00,501 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:07:05,450 [Worker-162] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 17:07:05,450 [Worker-162] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 17:07:08,906 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:08,907 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:07:08,910 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:08,911 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:07:25,604 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:25,605 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:07:25,608 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:25,608 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 17:07:30,057 [Worker-143] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 17:07:30,058 [Worker-143] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 17:07:33,304 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:33,305 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:07:33,309 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:33,309 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:07:47,525 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:47,525 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:07:47,527 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:47,529 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2016-05-30 17:07:53,264 [Worker-169] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 17:07:53,264 [Worker-169] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 17:07:56,571 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:56,572 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 17:07:56,574 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 17:07:56,574 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 为这个mapper指定一个唯一的namespace，namespace的值习惯上设置成包名+sql映射文件名，这样就能够保证namespace的值是唯一的 
+	例如namespace="me.gacl.mapping.classMapper"就是me.gacl.mapping(包名)+classMapper(classMapper.xml文件去除后缀) -->
+<mapper namespace="me.gacl.mapping.classMapper">
+
+	<!-- 根据班级id查询班级信息(带老师的信息) ##1. 联表查询 SELECT * FROM class c,teacher t WHERE 
+		c.teacher_id=t.t_id AND c.c_id=1; ##2. 执行两次查询 SELECT * FROM class WHERE c_id=1; 
+		//teacher_id=1 SELECT * FROM teacher WHERE t_id=1;//使用上面得到的teacher_id -->
+
+	<!-- 方式一：嵌套结果：使用嵌套结果映射来处理重复的联合结果的子集 封装联表查询的数据(去除重复的数据) select * from class 
+		c, teacher t where c.teacher_id=t.t_id and c.c_id=1 -->
+	<select id="getClass" parameterType="int" resultMap="ClassResultMap">
+		select * from T_CLASS c, TEACHER t where c.TEACHER_ID=t.T_ID and
+		c.C_ID=#{id}
+	</select>
+	<!-- 使用resultMap映射实体类和字段之间的一一对应关系 -->
+	<resultMap type="com.robert.mybatis.second.domain.Classes"
+		id="ClassResultMap">
+		<id property="id" column="C_ID" />
+		<result property="name" column="C_NAME" />
+		<association property="teacher"
+			javaType="com.robert.mybatis.second.domain.Teacher">
+			<id property="id" column="T_ID" />
+			<result property="name" column="T_NAME" />
+		</association>
+	</resultMap>
+
+	<!-- 方式二：嵌套查询：通过执行另外一个SQL映射语句来返回预期的复杂类型 SELECT * FROM class WHERE c_id=1; 
+		SELECT * FROM teacher WHERE t_id=1 //1 是上一个查询得到的teacher_id的值 -->
+	<select id="getClass2" parameterType="int" resultMap="ClassResultMap2">
+		select * from T_CLASS where C_ID=#{id}
+	</select>
+	<!-- 使用resultMap映射实体类和字段之间的一一对应关系 -->
+	<resultMap type="com.robert.mybatis.second.domain.Classes"
+		id="ClassResultMap2">
+		<id property="id" column="C_ID" />
+		<result property="name" column="C_NAME" />
+		<association property="teacher" column="TEACHER_ID"
+			select="getTeacher" />
+	</resultMap>
+
+	<select id="getTeacher" parameterType="int"
+		resultType="com.robert.mybatis.second.domain.Teacher">
+		SELECT T_ID id, T_NAME name FROM TEACHER WHERE t_id=#{id}
+	</select>
+
+
+	<!-- 配置实体类的别名，配置实体类别名的目的是为了在引用实体类时可以使用实体类的别名来代替实体类，达到简写的目的 -->
+	<typeAliases>
+		<!-- 为实体类me.gacl.domain.User配置一个别名_User -->
+		<!-- <typeAlias type="me.gacl.domain.User" alias="_User"/> -->
+		<!-- 为me.gacl.domain包下的所有实体类配置别名，MyBatis默认的设置别名的方式就是去除类所在的包后的简单的类名 比如me.gacl.domain.User这个实体类的别名就会被设置成User -->
+		<!-- <package name="com.robert.mybatis.second.domain"/> -->
+	</typeAliases>
+
+
+</mapper>

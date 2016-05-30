@@ -1,0 +1,5 @@
+package com.robert.mybatis.second.domain;
+
+public class Teacher {
+
+}
