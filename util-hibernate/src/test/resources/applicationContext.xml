@@ -13,7 +13,7 @@
 	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
 		destroy-method="close">
 		<!-- 设置JDBC连接URL -->
-		<property name="jdbcUrl" value="jdbc:mysql:///util_test" />
+		<property name="jdbcUrl" value="jdbc:mysql://10.203.138.231:3306/util_test" />
 		<!-- 设置JDBC驱动名称 -->
 		<property name="driverClass" value="com.mysql.jdbc.Driver" />
 		<!-- 设置数据库用户名 -->

@@ -118,3 +118,213 @@
 2016-05-27 17:20:31,209 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-05-27 17:20:31,211 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-05-27 17:20:31,212 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 08:18:16,558 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.robert.util:util-parent:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-parent\pom.xml.
+2016-05-30 08:18:19,641 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-30 08:18:22,881 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:18:22,884 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 08:18:22,886 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:18:22,887 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 08:18:31,214 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-parent
+2016-05-30 08:18:31,216 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 08:20:10,776 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.robert.util:util-parent:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-parent\pom.xml.
+2016-05-30 08:20:11,588 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-30 08:20:14,295 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:20:14,316 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 08:20:14,317 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:20:14,317 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 08:20:17,922 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-parent
+2016-05-30 08:20:17,923 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 08:41:42,796 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:41:42,796 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 08:41:42,798 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:41:42,803 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 08:41:53,143 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-30 08:41:53,225 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-30 08:41:54,285 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/main/java
+2016-05-30 08:41:54,286 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /util-hibernate/src/main/resources overlaps with sources folder /util-hibernate/src/main/resources
+2016-05-30 08:41:54,289 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/test/java
+2016-05-30 08:41:54,289 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /util-hibernate/src/test/resources overlaps with sources folder /util-hibernate/src/test/resources
+2016-05-30 08:41:54,574 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-05-30 08:41:55,070 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-30 08:41:56,873 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 08:41:56,971 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-30 08:41:56,991 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 08:41:56,992 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-30 08:41:56,993 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:41:56,994 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 08:41:56,995 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:41:56,995 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 08:41:57,062 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing file: C:\Users\CHEN\AppData\Local\Temp\create_schema.78470032sql
+2016-05-30 08:41:57,202 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - 2 of 2 SQL statements executed successfully
+2016-05-30 08:41:57,234 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 08:41:57,303 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-30 08:42:05,125 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-hibernate
+2016-05-30 08:42:05,125 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 08:42:08,302 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:42:08,302 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 08:42:08,303 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:42:08,303 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 08:42:33,470 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:42:33,471 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 08:42:33,472 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 08:42:33,473 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 08:42:38,910 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-hibernate
+2016-05-30 08:42:38,910 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 09:34:14,112 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:34:14,113 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:34:14,117 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:34:14,119 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 09:34:22,821 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-hibernate
+2016-05-30 09:34:22,822 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml clean
+2016-05-30 09:35:17,209 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-hibernate
+2016-05-30 09:35:17,209 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 09:35:19,826 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:35:19,827 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:35:19,830 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:35:19,831 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 09:36:06,910 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.robert.util:util-parent:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-parent\pom.xml.
+2016-05-30 09:36:06,935 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-30 09:36:08,513 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:36:08,514 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:36:08,516 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:36:08,516 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:36:14,532 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-30 09:36:14,564 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-30 09:36:14,721 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/main/java
+2016-05-30 09:36:14,721 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /util-hibernate/src/main/resources overlaps with sources folder /util-hibernate/src/main/resources
+2016-05-30 09:36:14,722 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/test/java
+2016-05-30 09:36:14,722 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /util-hibernate/src/test/resources overlaps with sources folder /util-hibernate/src/test/resources
+2016-05-30 09:36:14,792 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-30 09:36:15,219 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 09:36:15,221 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-30 09:36:15,240 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 09:36:15,242 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-30 09:36:15,243 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:36:15,243 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:36:15,244 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:36:15,244 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 09:36:15,280 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing file: C:\Users\CHEN\AppData\Local\Temp\create_schema.1135795673sql
+2016-05-30 09:36:15,427 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - 2 of 2 SQL statements executed successfully
+2016-05-30 09:36:15,464 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 09:36:15,528 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-30 09:37:32,621 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:37:32,621 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:37:32,622 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:37:32,623 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 09:37:48,045 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-30 09:37:48,110 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-30 09:37:48,232 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.robert.util:util-parent:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-parent\pom.xml.
+2016-05-30 09:37:48,297 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/main/java
+2016-05-30 09:37:48,297 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /util-hibernate/src/main/resources overlaps with sources folder /util-hibernate/src/main/resources
+2016-05-30 09:37:48,298 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-hibernate/src/test/java
+2016-05-30 09:37:48,298 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /util-hibernate/src/test/resources overlaps with sources folder /util-hibernate/src/test/resources
+2016-05-30 09:37:48,377 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-30 09:37:48,706 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 09:37:48,724 [Worker-20] ERROR o.e.m.c.i.embedder.EclipseLogger - Failed to execute:  drop database util_test
+
+2016-05-30 09:37:48,725 [Worker-20] ERROR o.e.m.c.i.embedder.EclipseLogger - java.sql.SQLException: Can't drop database 'util_test'; database doesn't exist
+2016-05-30 09:37:48,725 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - 0 of 1 SQL statements executed successfully
+2016-05-30 09:37:48,745 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 09:37:48,747 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-30 09:37:48,748 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:37:48,748 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:37:48,749 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:37:48,750 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 09:37:48,773 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing file: C:\Users\CHEN\AppData\Local\Temp\create_schema.1548662560sql
+2016-05-30 09:37:48,911 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - 2 of 2 SQL statements executed successfully
+2016-05-30 09:37:48,938 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing commands
+2016-05-30 09:37:49,004 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - 1 of 1 SQL statements executed successfully
+2016-05-30 09:37:58,706 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-hibernate
+2016-05-30 09:37:58,706 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 09:46:44,184 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:46:44,185 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:46:44,187 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:46:44,188 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-30 09:46:55,366 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-hibernate
+2016-05-30 09:46:55,366 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml clean
+2016-05-30 09:46:56,610 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:46:56,610 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:46:56,613 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:46:56,615 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 09:47:00,394 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-hibernate
+2016-05-30 09:47:00,394 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml test
+2016-05-30 09:47:44,440 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:47:44,440 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:47:44,442 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:47:44,443 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 09:48:44,710 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-hibernate
+2016-05-30 09:48:44,711 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml clean
+2016-05-30 09:48:45,922 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:48:45,923 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:48:45,925 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:48:45,926 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-05-30 09:52:25,827 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\sts_workspace\util\util-mybatis\pom.xml
+2016-05-30 09:52:26,359 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 09:52:26,515 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-mybatis/src/main/java
+2016-05-30 09:52:26,519 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-mybatis/src/test/java
+2016-05-30 09:52:26,556 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2016-05-30 09:52:26,883 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 09:52:27,023 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:52:27,024 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\main\resources
+2016-05-30 09:52:27,025 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:52:27,026 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\test\resources
+2016-05-30 09:52:27,700 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 09:52:28,100 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:52:28,100 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\main\resources
+2016-05-30 09:52:28,102 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:52:28,102 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\test\resources
+2016-05-30 09:53:40,442 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 09:53:40,468 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:53:40,468 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\main\resources
+2016-05-30 09:53:40,469 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:53:40,470 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\test\resources
+2016-05-30 09:54:13,951 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 09:54:13,988 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:54:13,988 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\main\resources
+2016-05-30 09:54:13,989 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:54:13,989 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\test\resources
+2016-05-30 09:54:15,223 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:54:15,224 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\main\resources
+2016-05-30 09:54:15,226 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:54:15,226 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\test\resources
+2016-05-30 09:54:29,697 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.robert.util:util-parent:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-parent\pom.xml.
+2016-05-30 09:54:29,733 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-hibernate:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-hibernate\pom.xml.
+2016-05-30 09:54:29,867 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 09:54:31,332 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:54:31,333 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:54:31,336 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:54:31,336 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-30 09:54:31,347 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:54:31,348 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\main\resources
+2016-05-30 09:54:31,349 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:54:31,350 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\test\resources
+2016-05-30 09:54:36,151 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 09:54:36,203 [Worker-44] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-05-30 09:54:36,304 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://localhost:8081/nexus/content/groups/public/org/mybatis/mybatis/3.3.0/mybatis-3.3.0.pom
+2016-05-30 09:54:36,309 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://localhost:8081/nexus/content/groups/public/org/mybatis/mybatis/3.3.0/mybatis-3.3.0.pom
+2016-05-30 09:55:16,618 [Worker-44] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-05-30 09:55:16,684 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://localhost:8081/nexus/content/groups/public/org/mybatis/mybatis-parent/24/mybatis-parent-24.pom
+2016-05-30 09:55:16,685 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://localhost:8081/nexus/content/groups/public/org/mybatis/mybatis-parent/24/mybatis-parent-24.pom
+2016-05-30 09:55:57,777 [Worker-44] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-05-30 09:55:57,792 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://localhost:8081/nexus/content/groups/public/org/mybatis/mybatis/3.3.0/mybatis-3.3.0.jar
+2016-05-30 09:55:57,843 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://localhost:8081/nexus/content/groups/public/org/mybatis/mybatis/3.3.0/mybatis-3.3.0.jar
+2016-05-30 09:56:38,207 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:56:38,208 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\main\resources
+2016-05-30 09:56:38,210 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:56:38,210 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\test\resources
+2016-05-30 09:56:38,232 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-30 09:56:38,255 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 09:56:38,284 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-mybatis/src/main/java
+2016-05-30 09:56:38,284 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /util-mybatis/src/test/java
+2016-05-30 09:56:38,344 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-30 09:56:38,548 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.robert.util:util-mybatis:0.0.1-SNAPSHOT @ E:\sts_workspace\util\util-mybatis\pom.xml.
+2016-05-30 09:56:38,582 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:56:38,582 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\main\resources
+2016-05-30 09:56:38,583 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:56:38,583 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\test\resources
+2016-05-30 09:57:33,324 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\sts_workspace\util\util-mybatis
+2016-05-30 09:57:33,324 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\maven\repos\settings.xml clean
+2016-05-30 09:57:34,538 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:57:34,539 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\main\resources
+2016-05-30 09:57:34,542 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-30 09:57:34,543 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\sts_workspace\util\util-mybatis\src\test\resources

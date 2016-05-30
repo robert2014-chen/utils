@@ -165,21 +165,27 @@
 				<version>3.0.1</version>
 			</dependency>
 
+			<dependency>
+				<groupId>org.mybatis</groupId>
+				<artifactId>mybatis</artifactId>
+				<version>3.3.0</version>
+			</dependency>
+
 		</dependencies>
 	</dependencyManagement>
 
 	<build>
 		<pluginManagement>
 			<plugins>
-				<!-- 指定编译的JDK的版本 -->
+				<!-- jdk编译插件 -->
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-compiler-plugin</artifactId>
-					<version>3.3</version>
+					<version>2.0.2</version>
 					<configuration>
 						<source>1.7</source>
 						<target>1.7</target>
-						<encoding>utf-8</encoding>
+						<encoding>${project.build.sourceEncoding}</encoding>
 					</configuration>
 				</plugin>
 				<!-- maven的测试插件 -->
@@ -241,7 +247,7 @@
 					<!-- common configuration shared by all executions -->
 					<configuration>
 						<driver>com.mysql.jdbc.Driver</driver>
-						<url>jdbc:mysql://localhost:3306/test</url>
+						<url>jdbc:mysql://10.203.138.231:3306/test</url>
 						<username>root</username>
 						<password>root</password>
 						<!-- You can comment out username/password configurations and have 
@@ -261,7 +267,7 @@
 							</goals>
 							<configuration>
 								<!-- need another database to drop the targeted one -->
-								<url>jdbc:mysql://localhost:3306/test</url>
+								<url>jdbc:mysql://10.203.138.231:3306/test</url>
 								<autocommit>true</autocommit>
 								<sqlCommand>drop database util_test</sqlCommand>
 								<!-- ignore error when database is not avaiable -->
@@ -277,7 +283,7 @@
 								<goal>execute</goal>
 							</goals>
 							<configuration>
-								<url>jdbc:mysql://localhost:3306/test</url>
+								<url>jdbc:mysql://10.203.138.231:3306/test</url>
 								<!-- no transaction -->
 								<autocommit>true</autocommit>
 								<sqlCommand>create database util_test</sqlCommand>
@@ -291,7 +297,7 @@
 								<goal>execute</goal>
 							</goals>
 							<configuration>
-								<url>jdbc:mysql://localhost:3306/util_test</url>
+								<url>jdbc:mysql://10.203.138.231:3306/util_test</url>
 								<autocommit>true</autocommit>
 								<srcFiles>
 									<srcFile>src/test/resources/create_schema.sql</srcFile>
@@ -314,19 +320,6 @@
 								<autocommit>true</autocommit>
 								<sqlCommand>drop database util_test</sqlCommand>
 							</configuration>
-						</execution>
-					</executions>
-				</plugin>
-
-				<plugin>
-					<artifactId>maven-source-plugin</artifactId>
-					<version>2.4</version>
-					<executions>
-						<execution>
-							<phase>package</phase>
-							<goals>
-								<goal>jar-no-fork</goal>
-							</goals>
 						</execution>
 					</executions>
 				</plugin>

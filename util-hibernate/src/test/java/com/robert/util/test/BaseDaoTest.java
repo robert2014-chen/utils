@@ -77,7 +77,7 @@ public class BaseDaoTest extends com.robert.dbunit.util.AbstractDbUnitTestCase {
 	
 	@BeforeClass
 	public static void initConnection() throws DatabaseUnitException{
-		DBUtil.url="jdbc:mysql:///util_test";
+		DBUtil.url="jdbc:mysql://10.203.138.231:3306/util_test";
 		DBUtil.username="root";
 		DBUtil.password="root";
 		

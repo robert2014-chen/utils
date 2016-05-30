@@ -1,2 +1,11 @@
+JRE_LIB=D\:/Program Files/Java/jre8/lib/rt.jar
+JRE_SRC=
 eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ASPECTJRT_LIB=D\:/Program Files/spring-tool-suite-3.3.0.RELEASE-e4.3-win32/springsource/sts-3.3.0.RELEASE/plugins/org.aspectj.runtime_1.7.3.20130613144500-a.jar
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=D\:/Program Files/spring-tool-suite-3.3.0.RELEASE-e4.3-win32/springsource/sts-3.3.0.RELEASE
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=D\:/Program Files/Java/jdk1.7.0_10/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=D\:/Program Files/Java/jdk1.7.0_10/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=D\:/Program Files/spring-tool-suite-3.3.0.RELEASE-e4.3-win32/springsource/sts-3.3.0.RELEASE/plugins/org.junit_4.11.0.v201303080030/
 org.eclipse.jdt.core.classpathVariable.M2_REPO=D\:/maven/repos/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
